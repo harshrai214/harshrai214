@@ -11,7 +11,7 @@
 ...
 
 ## 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshrai214&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshrai&show_icons=true)
 
 ## 🚀 Live Projects
 - 🧩 Portfolio: [Live Demo](https://harshraivds.github.io/Harsh-s_Portfolio)

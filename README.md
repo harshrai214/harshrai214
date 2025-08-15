@@ -14,8 +14,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshrai214&show_icons=true)
 
 ## 🚀 Live Projects
-- 🧩 Portfolio: [Live Demo](https://harshraivds.github.io/Harsh-s_Portfolio)
-- ✅ To-Do App: [Live Demo](https://todo-harshraivds.vercel.app)
+- 🧩 Portfolio: [Live Demo](https://harshrai214)
 
 ## 📬 Contact
 [LinkedIn](https://linkedin.com/in/harshrai06) | [Instagram](https://instagram.com/rai_sahabg/)

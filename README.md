@@ -9,7 +9,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ## 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshrai214&show_icons=true&theme=dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=harshrai214&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshrai214&layout=compact&theme=dark)
 
 ## 🚀 Live Projects

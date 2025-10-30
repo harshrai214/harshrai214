@@ -13,7 +13,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshrai214&layout=compact&theme=dark)
 
 ## 🚀 Live Projects
-- 🧩 Portfolio: [Live Demo](qhttps://myportfolio-ashy-nu-23.vercel.app/)
+- 🧩 Portfolio: [Live Demo](https://myportfolio-ashy-nu-23.vercel.app/)
 
 ## 📬 Contact
 [LinkedIn](https://linkedin.com/in/harshrai06) | [Instagram](https://instagram.com/rai_sahabg/)
